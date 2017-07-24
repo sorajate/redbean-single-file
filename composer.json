@@ -1,10 +1,10 @@
 {
-    "name": "yeriomin/redbean-single-file",
+    "name": "sorajate/redbean5-single-file",
     "type": "library",
     "description": "RedBeanPHP is an easy-to-use, on-the-fly ORM for PHP.",
     "keywords": ["MySQL", "InnoDB", "MariaDB", "PostgreSQL", "SQLite3", "CUBRID"],
     "license": "MIT",
-    "homepage": "https://github.com/yeriomin/redbean-single-file",
+    "homepage": "https://github.com/sorajate/redbean-single-file",
     "authors": [
         {
           "name": "Gabor de Mooij",
@@ -19,5 +19,5 @@
     "autoload": {
         "files": ["rb.php"]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
