@@ -1,5 +1,5 @@
 {
-    "name": "sorajate/redbean5-single-file",
+    "name": "sorajate/redbean-single-file",
     "type": "library",
     "description": "RedBeanPHP is an easy-to-use, on-the-fly ORM for PHP.",
     "keywords": ["MySQL", "InnoDB", "MariaDB", "PostgreSQL", "SQLite3", "CUBRID"],
